@@ -13,7 +13,7 @@ class Student{
 }
 public class Constructoreg2 {
 	public static void main(String[] args) {
-		Student s1 = new Student("Hemanth",22);
+		Student s1 = new Student("hi",22);
 		s1.print();
 ;
 		
